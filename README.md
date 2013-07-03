@@ -3,6 +3,11 @@ Compi
 
 A Flask-based API and client solution for centralised monitoring of Linux servers
 
+Requirements
+------------
+
+- [Flask](http://flask.pocoo.org/ "Flask")
+
 Components
 ----------
 
