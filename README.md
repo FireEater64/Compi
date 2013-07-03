@@ -7,6 +7,7 @@ Requirements
 ------------
 
 - [Flask](http://flask.pocoo.org/ "Flask")
+- [RRDTOOL](http://oss.oetiker.ch/rrdtool/prog/rrdpython.en.html "RRDTOOL")
 
 Components
 ----------
