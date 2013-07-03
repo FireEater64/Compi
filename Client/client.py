@@ -12,4 +12,4 @@ data = {'loadaverage': os.getloadavg()[0]}
 if (requests.post(url, data).text == "200"):
   print "Update succeded!"
 else:
-  print "Update failed"
+  print "Update failed!"
